@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RoadFactory()
+comment1.params=roadType
+comment1.target=Road\ createRoad(java.lang.String)
+numComments=2

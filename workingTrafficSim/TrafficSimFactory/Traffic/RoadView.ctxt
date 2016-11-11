@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RoadView()
+comment0.text=\ type\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ 0\=motorway\r\n\ \ \ \ \ \ \ \ \ \ \ \ 1\=sidelane\r\n
+comment1.params=r
+comment1.target=RoadView(Road)
+comment1.text=public\ RoadView(Motorway\ r){\r\n\t\tx\=r.TopLeftX();\r\n\t\ty\=r.TopLeftY();\r\n\t\twidth\=TrafficSim.frameSizeX;\r\n\t\theight\=r.getLaneCount()*TrafficSim.RoadHeight;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ type\ \=0;\r\n\ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ public\ RoadView(Sidelane\ r){\r\n\t\t\ \ \ x\=r.getX();\r\n\t\t\ \ \ y\=r.getY();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ width\=TrafficSim.frameSizeX;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ height\=r.getLaneCount()*TrafficSim.RoadHeight;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ type\ \=1;\r\n}
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getW()
+comment5.params=
+comment5.target=int\ getH()
+comment6.params=
+comment6.target=int\ getType()
+numComments=7

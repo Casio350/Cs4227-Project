@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Motorway()
+comment1.params=x\ y\ id\ LTR
+comment1.target=Motorway(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=x\ y\ id\ LTR
+comment3.target=void\ instantiateRoad(int,\ int,\ int,\ boolean)
+numComments=4

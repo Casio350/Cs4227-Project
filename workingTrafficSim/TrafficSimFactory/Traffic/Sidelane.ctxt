@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sidelane()
+comment1.params=
+comment1.target=boolean\ isLaneEntry()
+comment2.params=isEntry\ x\ y\ id\ LTR
+comment2.target=Sidelane(boolean,\ int,\ int,\ int,\ boolean)
+comment3.params=x\ y\ id\ LTR
+comment3.target=void\ instantiateRoad(int,\ int,\ int,\ boolean)
+comment4.params=
+comment4.target=int\ getY()
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=VehicleView(Vehicle)
+comment1.params=x
+comment1.target=boolean\ isAheadOf(int)
+comment10.params=
+comment10.target=int\ posY()
+comment2.params=x\ y
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=y
+comment3.target=void\ setPosY(int)
+comment4.params=x
+comment4.target=void\ setPosX(int)
+comment5.params=v
+comment5.target=void\ setPosition(Vector)
+comment6.params=
+comment6.target=int\ getID()
+comment7.params=
+comment7.target=int\ getRoadID()
+comment8.params=
+comment8.target=boolean\ getLTR()
+comment9.params=
+comment9.target=int\ posX()
+numComments=11

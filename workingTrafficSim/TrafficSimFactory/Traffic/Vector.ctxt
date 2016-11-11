@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Vector(int,\ int)
+comment1.params=
+comment1.target=int\ X()
+comment2.params=x
+comment2.target=void\ setX(int)
+comment3.params=
+comment3.target=int\ Y()
+comment4.params=y
+comment4.target=void\ setY(int)
+numComments=5
